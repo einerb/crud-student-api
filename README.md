@@ -25,6 +25,7 @@
 ## Description
 
 Proyecto desarrollado en Nestjs y Sqlite para el registro, listado, actualización y eliminación (CRUD) de estudiantes.
+La documentación se desplegó en Swagger y puede encontrarse una vez se inicie el proyecto en la siguiente ruta http://localhost:3000/api/docs
 
 ## Installation
 
